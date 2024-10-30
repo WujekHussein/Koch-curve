@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="237a5a21-adfc-4e5b-8c16-64522b2f57fd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/sciana.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Fractal_generation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Fractal_generation.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Koch_Surface.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Koch_Surface.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Koch_curve_3D.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Koch_curve_3D.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Raport.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Raport.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,19 +29,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "milosz",
+    "last_opened_file_path": "/Users/miloszwysocki/Developer/Koch-curve",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -55,6 +61,7 @@
       <workItem from="1728729393475" duration="1660000" />
       <workItem from="1729089163555" duration="131000" />
       <workItem from="1729089323342" duration="100000" />
+      <workItem from="1730241195649" duration="2143000" />
     </task>
     <servers />
   </component>
